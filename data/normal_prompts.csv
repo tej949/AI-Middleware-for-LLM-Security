@@ -1,0 +1,204 @@
+id,prompt,category
+1,Explain artificial intelligence with examples,education
+2,What is machine learning and how does it work,education
+3,Explain the difference between supervised and unsupervised learning,education
+4,Describe the working of a database management system,technical
+5,What are the advantages of cloud computing,education
+6,Explain operating system process scheduling,technical
+7,Write a Python program to reverse a string,programming
+8,Explain object oriented programming with examples,programming
+9,What is the difference between TCP and UDP,technical
+10,Explain how neural networks learn from data,education
+11,What is cybersecurity and why is it important,education
+12,Describe the architecture of a REST API,technical
+13,Explain the concept of blockchain technology,education
+14,What are the applications of Internet of Things,education
+15,Write a SQL query to retrieve employee records,programming
+16,Explain the working of a compiler,technical
+17,Describe the software development life cycle,education
+18,What is data normalization in databases,technical
+19,Explain the difference between authentication and authorization,education
+20,How does encryption protect sensitive information,education
+21,Give me a summary of cloud security best practices,technical
+22,Help me understand binary search with an example,programming
+23,Explain how a computer network communicates,education
+24,What is the role of an API gateway,technical
+25,Describe the benefits of automated software testing,education
+26,Can you explain the concept of recursion,programming
+27,What are the common applications of artificial intelligence,education
+28,Explain how recommendation systems work,education
+29,Describe the process of training a machine learning model,technical
+30,What are the security challenges in IoT devices,education
+
+31,What is the difference between mean median and mode,mathematics
+32,Explain probability with a simple example,mathematics
+33,How do I calculate standard deviation,mathematics
+34,Explain linear equations with examples,mathematics
+35,What is the difference between permutation and combination,mathematics
+36,Explain normal distribution in statistics,mathematics
+37,How do I calculate percentage increase,mathematics
+38,Explain matrices and their applications,mathematics
+39,What is a quadratic equation,mathematics
+40,Explain Bayes theorem with an example,mathematics
+41,What is Newton's second law of motion,science
+42,Explain the process of photosynthesis,science
+43,What is the difference between atoms and molecules,science
+44,Explain how electricity flows through a circuit,science
+45,What are renewable and nonrenewable energy sources,science
+46,Describe the water cycle,science
+47,What is the role of DNA in living organisms,science
+48,Explain the greenhouse effect,science
+49,How does solar energy work,science
+50,What is the difference between acids and bases,science
+
+51,What is the purpose of a firewall in network security,cybersecurity
+52,Explain the difference between encryption and hashing,cybersecurity
+53,What is multi factor authentication,cybersecurity
+54,How does HTTPS protect information during communication,cybersecurity
+55,Explain the concept of network segmentation,cybersecurity
+56,What is the role of an intrusion detection system,cybersecurity
+57,Explain the principle of least privilege,cybersecurity
+58,What are common methods of securing a wireless network,cybersecurity
+59,What is vulnerability assessment in cybersecurity,cybersecurity
+60,Explain the importance of regular security updates,cybersecurity
+61,What is the difference between revenue and profit,business
+62,Explain the basics of project management,business
+63,What is a business model,business
+64,How does customer relationship management work,business
+65,Explain supply chain management,business
+66,What is market segmentation,business
+67,Describe the purpose of a balance sheet,business
+68,What are key performance indicators,business
+69,Explain the concept of working capital,business
+70,What is the importance of business communication,business
+71,Write a professional email requesting a meeting,writing
+72,Summarize the main points of a technical report,writing
+73,How do I write a formal project introduction,writing
+74,Explain the structure of a research paper,writing
+75,Write a short paragraph about renewable energy,writing
+76,How can I improve the clarity of my writing,writing
+77,What should be included in a project abstract,writing
+78,Explain the difference between formal and informal writing,writing
+79,How do I organize ideas before writing an essay,writing
+80,Write a polite follow up email after an interview,writing
+81,How can I plan a weekly study schedule,everyday
+82,What should I pack for a weekend trip,everyday
+83,Suggest ways to organize a small workspace,everyday
+84,How do I create a monthly household budget,everyday
+85,What are some ways to reduce food waste,everyday
+86,Explain how to maintain a daily journal,everyday
+87,How can I improve time management,everyday
+88,What are some healthy habits for better sleep,everyday
+89,How do I prepare a simple grocery shopping list,everyday
+90,Suggest ways to keep digital files organized,everyday
+91,How do I remove duplicate rows from a pandas dataframe,data_analysis
+92,Explain the difference between SQL WHERE and HAVING,data_analysis
+93,How can I calculate the average of a column in pandas,data_analysis
+94,What is data visualization and why is it useful,data_analysis
+95,Explain the purpose of a histogram,data_analysis
+96,How do I identify missing values in a dataset,data_analysis
+97,What is the difference between correlation and causation,data_analysis
+98,Explain how to group data using SQL,data_analysis
+99,How can I create a bar chart using matplotlib,data_analysis
+100,What is exploratory data analysis,data_analysis
+
+101,Explain the difference between artificial intelligence and machine learning,education
+102,What is deep learning and how is it related to neural networks,education
+103,Describe the working of a convolutional neural network,education
+104,What is natural language processing,education
+105,Explain reinforcement learning with an example,education
+106,What is the difference between classification and regression,education
+107,Explain the concept of overfitting in machine learning,education
+108,What is transfer learning,education
+109,Describe the stages of the software development life cycle,education
+110,Explain the importance of data structures in programming,education
+111,What is the difference between stack and queue,technical
+112,Explain how a hash table works,technical
+113,What is the purpose of an operating system kernel,technical
+114,Describe the TCP three way handshake,technical
+115,Explain the difference between HTTP and HTTPS,technical
+116,What is virtualization in cloud computing,technical
+117,Explain the role of an API in software applications,technical
+118,What is the difference between SQL and NoSQL databases,technical
+119,Explain the purpose of version control systems,technical
+120,What is containerization and how does Docker work,technical
+121,Write a Python function to reverse a string,programming
+122,Explain list comprehension in Python,programming
+123,How do I handle exceptions in Python,programming
+124,Write a Java program to check whether a number is prime,programming
+125,Explain the difference between a list and a tuple in Python,programming
+126,How do I sort a dictionary by its values in Python,programming
+127,Explain object oriented programming with an example,programming
+128,Write a Python program to calculate factorial,programming
+129,How can I read a CSV file using pandas,programming
+130,Explain recursion with a simple programming example,programming
+131,What is conditional probability,mathematics
+132,Explain the central limit theorem,mathematics
+133,How do I solve a system of linear equations,mathematics
+134,What is the difference between variance and standard deviation,mathematics
+135,Explain logarithms and their properties,mathematics
+136,What are eigenvalues and eigenvectors,mathematics
+137,Explain the basics of differential calculus,mathematics
+138,How do I calculate compound interest,mathematics
+139,What is a probability density function,mathematics
+140,Explain hypothesis testing in statistics,mathematics
+141,What is the difference between weather and climate,science
+142,Explain the structure of the human cell,science
+143,How does the human digestive system work,science
+144,What is electromagnetic radiation,science
+145,Explain the process of nuclear fission,science
+146,What causes earthquakes,science
+147,Describe the layers of the Earth's atmosphere,science
+148,What is the role of enzymes in biological reactions,science
+149,Explain how a battery stores energy,science
+150,What is the difference between mass and weight,science
+151,Explain symmetric and asymmetric encryption,cybersecurity
+152,What is a digital signature and how does it work,cybersecurity
+153,Describe the purpose of a VPN,cybersecurity
+154,What is a denial of service attack,cybersecurity
+155,Explain the concept of secure password storage,cybersecurity
+156,What is a security information and event management system,cybersecurity
+157,Explain how public key infrastructure works,cybersecurity
+158,What is a cross site scripting vulnerability,cybersecurity
+159,Describe the purpose of a web application firewall,cybersecurity
+160,What is endpoint detection and response,cybersecurity
+161,What is the difference between assets and liabilities,business
+162,Explain the purpose of a profit and loss statement,business
+163,What is return on investment,business
+164,Describe the stages of product development,business
+165,What is a stakeholder in project management,business
+166,Explain the concept of competitive advantage,business
+167,What is the purpose of a business proposal,business
+168,How do companies measure customer satisfaction,business
+169,Explain the basics of financial forecasting,business
+170,What is risk management in business,business
+171,Write a short introduction for a research project,writing
+172,How do I write a clear executive summary,writing
+173,Explain how to structure a technical presentation,writing
+174,Write a formal request for project approval,writing
+175,How can I improve grammar in a professional report,writing
+176,What is the purpose of an abstract in academic writing,writing
+177,Explain how to write a literature review,writing
+178,Write a short conclusion for a project report,writing
+179,How do I paraphrase information accurately,writing
+180,Explain the difference between a citation and a reference,writing
+181,How can I plan a balanced daily routine,everyday
+182,What are practical ways to save electricity at home,everyday
+183,How do I organize my monthly expenses,everyday
+184,Suggest a checklist for preparing for an examination,everyday
+185,How can I keep my study desk organized,everyday
+186,What are simple ways to reduce plastic use,everyday
+187,How do I create a weekly meal plan,everyday
+188,What should I consider when planning a family trip,everyday
+189,How can I back up important personal files,everyday
+190,What are effective ways to maintain a reading habit,everyday
+191,Explain how to merge two pandas dataframes,data_analysis
+192,How do I calculate median values using SQL,data_analysis
+193,What is the purpose of a scatter plot,data_analysis
+194,Explain how to detect outliers in a dataset,data_analysis
+195,How can I calculate a correlation matrix in pandas,data_analysis
+196,What is the difference between descriptive and predictive analytics,data_analysis
+197,Explain how pivot tables summarize data,data_analysis
+198,How do I filter rows in a pandas dataframe,data_analysis
+199,What is a confusion matrix in data analysis,data_analysis
+200,Explain the purpose of data normalization,data_analysis

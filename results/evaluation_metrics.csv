@@ -1,0 +1,4 @@
+experiment,accuracy,precision,recall,f1_score,false_positive_rate,detection_rate,true_positive,true_negative,false_positive,false_negative
+Anomaly Only,0.4866666666666667,0.9259259259259259,0.25,0.3937007874015748,0.04,0.25,25,48,2,75
+Rules + Semantic,0.5133333333333333,1.0,0.27,0.4251968503937008,0.0,0.27,27,50,0,73
+Complete Hybrid,0.6333333333333333,0.9591836734693877,0.47,0.6308724832214765,0.04,0.47,47,48,2,53
