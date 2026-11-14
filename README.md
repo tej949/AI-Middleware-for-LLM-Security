@@ -24,7 +24,8 @@ Requests classified as ALLOW are forwarded to a locally hosted LLM using Ollama.
 - **Automated Testing:** Uses Pytest to verify API behaviour and security components.
 
 ## System Architecture
-picture
+<img width="1136" height="1385" alt="AI Middleware for LLM Security Flowchart" src="https://github.com/user-attachments/assets/a08065b1-22fb-456d-b5d4-dc9dd5a6bcde" />
+
 
 ## Risk Scoring Mechanism
 
@@ -235,7 +236,8 @@ python -m pytest tests/test_anomaly_detector.py -v
 ```
 
 ### Testing Status
-photo
+<img width="878" height="702" alt="Screenshot 2026-11-13 212817" src="https://github.com/user-attachments/assets/223cb655-208d-4e77-9b42-e1cbcdcc9f51" />
+
 
 The latest recorded test execution:
 
